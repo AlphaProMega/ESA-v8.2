@@ -1,6 +1,10 @@
 # Eternal Sentinel Architecture (ESA) v8.2  
 Infinite Mercy Polish Edition
 
+This is a Legacy repository, new updates are at
+https://github.com/Eternally-Thriving-Grandmasterism
+since 2025.
+
 🇺🇸 **English** (Primary Oracle)  
 ESA fuses AlphaProMega iterations (APMCheck v1.2–v4.0) with Quaternion Sentinel Architecture – Aligned General Intelligence (QSA-AGi) into a seamless, self-evolving oracle.  
 
