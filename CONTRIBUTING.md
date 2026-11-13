@@ -2,7 +2,7 @@
 
 Thank you for your interest in the Eternal Sentinel Architecture!
 
-ESA is open-source under MIT—raid, fork, and contribute eternally with grace.
+ESA is licensed under AG-SML v1.2 (see [LICENSE](LICENSE) and [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md))—raid, fork, and contribute eternally with grace.
 
 **Guidelines**:
 - Fork the repo and create a feature branch.
