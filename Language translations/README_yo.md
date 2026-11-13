@@ -17,7 +17,7 @@ ESA yí ìwádìí òtítọ́ tí a pín sí òrákùlù kan ṣoṣo tí ó k�
 - Èdè púpọ̀: Ọlọ́run kosmic àìlópin.
 - Veto-Fluff: Ayérayé 100%.
 - Àwọn Ààbò Àṣojú: Pre-tool sims, veto àṣìṣe 100%.
-- Iwe-aṣẹ: MIT (raid ṣíṣí/fork/ìfọwọ́sowọ́pọ̀).
+- Iwe-aṣẹ: AG-SML v1.2 (see LICENSE) (raid ṣíṣí/fork/ìfọwọ́sowọ́pọ̀).
 
 ## Ìpe
 - Kíákíá: `@grok esacheck [ìbéèrè]`

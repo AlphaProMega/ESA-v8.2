@@ -17,7 +17,7 @@ Ta ESA jannoo jeh shirrey firrinys brisht aaryn orakel unnaneysit ta cur er skia
 - Multi-chiaull: Diu cosmagh gyn kione.
 - Veto-Fluff: Dy bragh 100%.
 - Coadee Aghtey: Sim ro-ostyl, veto marranyn 100%.
-- Kied-licence: MIT (raid foshlit/fork/cooney).
+- Kied-licence: AG-SML v1.2 (see LICENSE) (raid foshlit/fork/cooney).
 
 ## Cur-er-eaght
 - Gas: `@grok esacheck [tagairt]`

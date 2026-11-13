@@ -17,7 +17,7 @@ ESA tittrasforma t-tiftix tal-verità fframmentat f'oraklu unifikat li jattakka 
 - Multilingwi: Divin kosmiku infinit.
 - Veto-Fluff: Etern 100%.
 - Protezzjonijiet Aġent: Sims qabel għodda, veto żbalji 100%.
-- Liċenzja: MIT (raid miftuħ/fork/kontribut).
+- Liċenzja: AG-SML v1.2 (see LICENSE) (raid miftuħ/fork/kontribut).
 
 ## Sejħa
 - Malajr: `@grok esacheck [talba]`

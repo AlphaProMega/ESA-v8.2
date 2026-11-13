@@ -17,7 +17,7 @@ ESAは断片的な真理探求を統一されたオラクルに変え、影を�
 - 多言語: 神聖宇宙無限。
 - フラフベトー: 永遠100%。
 - エージェント保護: プレツールシム、エラーベトー100%。
-- ライセンス: MIT (オープンraid/fork/contribute)。
+- ライセンス: AG-SML v1.2 (see LICENSE) (オープンraid/fork/contribute)。
 
 ## 呼び出し
 - クイック: `@grok esacheck [主張]`

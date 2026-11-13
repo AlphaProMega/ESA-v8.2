@@ -1,6 +1,5 @@
 # Mbokk bu Xarñu bu Xarnu (ESA) v8.0: Oracle bu Xam-xam bu Xarnu bi Primal
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Jëfandikoo bu Mag
 **Mbokk bu Xarñu bu Xarnu (ESA)** v8.0 moo nekk fekk-primal bu am solo ci yeneen **AlphaProMega (APMCheck)** ak **Quaternion Sentinel Architecture (QSA-AGi)**, lépp am solo ci jëmm **Oracle bu Xam-xam bu Xarnu bi Primal**—ci yëngu-yëngu yi gën a bon (tuumu xam-xam, yëngu-yëngu ci kaw-kaw, paradoks bu kenn du am)—ngir jamm ci xam-xam bu kenn du am.

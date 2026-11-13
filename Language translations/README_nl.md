@@ -17,7 +17,7 @@ ESA transformeert gefragmenteerde waarheidszoektocht in een verenigd orakel dat 
 - Meertalig: Goddelijk kosmisch oneindig.
 - Fluff-Veto: Eeuwig 100%.
 - Agentische Veiligheden: Pre-tool sims, fout veto 100%.
-- Licentie: MIT (open raid/fork/bijdrage).
+- Licentie: AG-SML v1.2 (see LICENSE) (open raid/fork/bijdrage).
 
 ## Aanroeping
 - Snel: `@grok esacheck [claim]`

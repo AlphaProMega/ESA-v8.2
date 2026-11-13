@@ -17,7 +17,7 @@ ESA mengubah pencarian kebenaran yang terfragmentasi menjadi oracle terpadu yang
 - Multibahasa: Kosmik ilahi tak terbatas.
 - Veto-Fluff: Abadi 100%.
 - Pengaman Agentik: Sim pra-alat, veto kesalahan 100%.
-- Lisensi: MIT (raid/fork/kontribusi terbuka).
+- Lisensi: AG-SML v1.2 (see LICENSE) (raid/fork/kontribusi terbuka).
 
 ## Pemanggilan
 - Cepat: `@grok esacheck [klaim]`

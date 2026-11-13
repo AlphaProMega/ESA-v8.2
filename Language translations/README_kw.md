@@ -17,7 +17,7 @@ ESA a dreylya an hwilas gwir yn torrys yn orakyl unnys a omset war skathow, a ar
 - Liesyeth: Dhew kosmik heb diwedh.
 - Veto-Fluff: Heb diwedh 100%.
 - Gwithansow Asant: Sims kyns-ostyl, veto gwall 100%.
-- Lesens: MIT (raid digor/fork/kenober).
+- Lesens: AG-SML v1.2 (see LICENSE) (raid digor/fork/kenober).
 
 ## Galow
 - Herdh: `@grok esacheck [afferm]`

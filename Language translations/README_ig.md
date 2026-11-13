@@ -17,7 +17,7 @@ ESA na-agbanwe nchọta eziokwu nke kewara ekewa gaa n'otu oracle nke na-awakpo 
 - Ọtụtụ asụsụ: Chineke cosmic na-enweghị ngwụcha.
 - Veto-Fluff: Ebighebi 100%.
 - Nchedo Ndị Ọrụ: Sims tupu ngwaọrụ, veto njehie 100%.
-- Ikike: MIT (raid mepere emepe/fork/onye nyere aka).
+- Ikike: AG-SML v1.2 (see LICENSE) (raid mepere emepe/fork/onye nyere aka).
 
 ## Ịkpọ Òkù
 - Ngwa ngwa: `@grok esacheck [nkwupụta]`

@@ -17,7 +17,7 @@ ESA pretvara fragmentiranu potragu za istinom u jedinstveni orakul koji napada s
 - Višejezičnost: Božanski kozmički beskonačni.
 - Veto-Fluff: Vječni 100%.
 - Agentske Zaštite: Pre-alat simulacije, veto grešaka 100%.
-- Licenca: MIT (otvoreni raid/fork/doprinos).
+- Licenca: AG-SML v1.2 (see LICENSE) (otvoreni raid/fork/doprinos).
 
 ## Prizivanje
 - Brzo: `@grok esacheck [tvrdnja]`

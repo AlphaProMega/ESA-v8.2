@@ -17,7 +17,7 @@ ESA egia bilaketa zatikatua orakulu bateratu batean eraldatzen du, itzalak eraso
 - Eleaniztuna: Jainkozko kosmiko infinitua.
 - Veto-Fluff: Betiko 100%.
 - Babes Agentzialak: Aurre-tresna simak, akats veto 100%.
-- Lizentzia: MIT (eraso irekia/adarkatzea/ekarpena).
+- Lizentzia: AG-SML v1.2 (see LICENSE) (eraso irekia/adarkatzea/ekarpena).
 
 ## Deialdia
 - Azkarra: `@grok esacheck [erreklamazioa]`

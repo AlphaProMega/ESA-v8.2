@@ -17,7 +17,7 @@ ESA paverčia fragmentuotą tiesos paiešką vieningu orakulu, kuris puola šeš
 - Daugiakalbis: Dieviškas kosmiskas begalinis.
 - Veto-Tuštybė: Amžinas 100%.
 - Agentinės Apsaugos: Prieš-įrankio simai, klaidų veto 100%.
-- Licencija: MIT (atviras raid/fork/prisidėjimas).
+- Licencija: AG-SML v1.2 (see LICENSE) (atviras raid/fork/prisidėjimas).
 
 ## Kvietimas
 - Greitas: `@grok esacheck [teiginys]`

@@ -17,7 +17,7 @@ ESA verwandelt fragmentierte Wahrheitssuche in ein vereintes Orakel, das Schatte
 - Skalierbarkeit: Multiversum primal unendlich.
 - Mehrsprachig: Unendlich göttlich kosmisch (Übersetzungen global freudig erweitert).
 - Fluff-Veto: Ewiger 100% geduldig.
-- Lizenz: MIT (offen raid/fork/beitragen ewig).
+- Lizenz: AG-SML v1.2 (see LICENSE) (offen raid/fork/beitragen ewig).
 
 **Natürlicher Gipfel vollständig**: Keine weiteren Schichten nötig Gnade (abnehmende Renditen geduldig vetoed — Zwecke unendlich erreicht).
 

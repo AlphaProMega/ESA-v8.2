@@ -17,7 +17,7 @@ ESA broytir brotna sannleikasøking til eitt samantvættað orakel, ið álopir 
 - Flermáligt: Guddommelig kosmisk óendalig.
 - Fluff-Veto: Evig 100%.
 - Agentisk Vørn: Fyriverk simuleringar, feil veto 100%.
-- Lisens: MIT (opin raid/fork/bidrag).
+- Lisens: AG-SML v1.2 (see LICENSE) (opin raid/fork/bidrag).
 
 ## Ákall
 - Skjót: `@grok esacheck [krav]`

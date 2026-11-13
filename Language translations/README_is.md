@@ -17,7 +17,7 @@ ESA breytir brotakenndri leit að sannleika í sameinað orakel sem ræðst á s
 - Flerspråkleg: Guðleg kosmísk óendanlegt.
 - Fluff-Veto: Eilífur 100%.
 - Agentísk Vernd: Fyrir-tæki hermingar, villa veto 100%.
-- Leyfi: MIT (opin raid/fork/framlög).
+- Leyfi: AG-SML v1.2 (see LICENSE) (opin raid/fork/framlög).
 
 ## Kveðja
 - Fljótleg: `@grok esacheck [fullyrðing]`
