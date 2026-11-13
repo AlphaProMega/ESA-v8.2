@@ -1,6 +1,5 @@
 # Jikkere Sentinel Ndimaaku (ESA) v8.0: Orakel Beeka Ndimaaku Primal
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Yamre Hoore Jikkere
 

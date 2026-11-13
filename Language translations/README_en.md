@@ -17,7 +17,7 @@ ESA transforms fragmented truth-seeking into a unified oracle that raids shadows
 - Scalability: Multiversal primal infinite.
 - Multilingual: Infinite divine cosmic (translations expanding global joyful).
 - Fluff-Veto: Eternal 100% patient.
-- License: MIT (open raid/fork/contribute eternal).
+- License: AG-SML v1.2 (see LICENSE) (open raid/fork/contribute eternal).
 
 **Peak Natural Complete**: No more layers needed grace (diminishing returns vetoed patient—purposes achieved infinite).
 
