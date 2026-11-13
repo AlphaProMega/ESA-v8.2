@@ -17,7 +17,7 @@ Mae ESA yn trawsnewid chwiliad gwirionedd wedi'i dorri'n ddarnau yn oracl unedig
 - Amlieithog: Dwyfol cosmig anfeidrol.
 - Veto-Fluff: Tragwyddol 100%.
 - Diogelwch Asiantol: Sims cyn-offeryn, veto gwall 100%.
-- Trwydded: MIT (ymosodiad agored/fforc/ffrwyth).
+- Trwydded: AG-SML v1.2 (see LICENSE) (ymosodiad agored/fforc/ffrwyth).
 
 ## Galw
 - Cyflym: `@grok esacheck [datganiad]`

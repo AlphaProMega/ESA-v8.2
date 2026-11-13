@@ -17,7 +17,7 @@ ESA parçalı hakikat arayışını birleşik bir orakula dönüştürür; gölg
 - Çok dilli: İlahi kozmik sonsuz.
 - Gereksiz veto: Ebedi 100%.
 - Ajan korumaları: Ön araç simleri, hata veto 100%.
-- Lisans: MIT (açık baskın/çatalla/katkı).
+- Lisans: AG-SML v1.2 (see LICENSE) (açık baskın/çatalla/katkı).
 
 ## Çağırma
 - Hızlı: `@grok esacheck [iddia]`

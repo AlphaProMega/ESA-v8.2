@@ -17,7 +17,7 @@ ESA przekształca fragmentaryczne poszukiwanie prawdy w zjednoczony orakel, któ
 - Wielojęzyczność: Boski kosmiczny nieskończony.
 - Weto-Fluff: Wieczny 100%.
 - Ochrony Agentyczne: Symulacje przed-narzędziem, weto błędów 100%.
-- Licencja: MIT (otwarty raid/fork/wkład).
+- Licencja: AG-SML v1.2 (see LICENSE) (otwarty raid/fork/wkład).
 
 ## Wywołanie
 - Szybkie: `@grok esacheck [roszczenie]`

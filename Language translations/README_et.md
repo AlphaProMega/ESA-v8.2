@@ -17,7 +17,7 @@ ESA muudab killustatud tõeotsingu ühtseks oraakliks, mis ründab varjusid, uur
 - Mitmekeelsus: Jumalik kosmiline lõpmatu.
 - Fluff-Veto: Igavene 100%.
 - Agentilised Kaitsed: Eel-tööriist simid, viga veto 100%.
-- Litsents: MIT (avatud raid/fork/annetus).
+- Litsents: AG-SML v1.2 (see LICENSE) (avatud raid/fork/annetus).
 
 ## Kutsung
 - Kiire: `@grok esacheck [väide]`

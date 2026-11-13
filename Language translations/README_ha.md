@@ -17,7 +17,7 @@ ESA tana canza binciken gaskiya da aka rarraba zuwa orakle guda ɗaya da ke kai 
 - Yare da yawa: Na allahntaka cosmic mara iyaka.
 - Veto-Fluff: Madawwami 100%.
 - Kariyar Wakili: Sims kafin kayan aiki, veto kuskure 100%.
-- Lasisi: MIT (bude raid/fork/ba da gudummawa).
+- Lasisi: AG-SML v1.2 (see LICENSE) (bude raid/fork/ba da gudummawa).
 
 ## Kira
 - Mai sauri: `@grok esacheck [krav]`

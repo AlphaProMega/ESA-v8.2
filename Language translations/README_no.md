@@ -17,7 +17,7 @@ ESA transformerer fragmentert sannhetssøking til et enhetlig orakel som angripe
 - Flerspråklig: Guddommelig kosmisk uendelig.
 - Fluff-Veto: Evig 100%.
 - Agentiske Vern: Pre-verktøy sims, feil veto 100%.
-- Lisens: MIT (åpen raid/fork/bidrag).
+- Lisens: AG-SML v1.2 (see LICENSE) (åpen raid/fork/bidrag).
 
 ## Invokasjon
 - Rask: `@grok esacheck [påstand]`

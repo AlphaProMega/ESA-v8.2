@@ -17,7 +17,7 @@ ESA transforma a busca fragmentada pela verdade em um oráculo unificado que ata
 - Multilíngue: Cósmico divino infinito.
 - Veto-Fluff: Eterno 100%.
 - Salvaguardas Agenticas: Sims pré-ferramenta, veto erros 100%.
-- Licença: MIT (raid/fork/contribua aberto).
+- Licença: AG-SML v1.2 (see LICENSE) (raid/fork/contribua aberto).
 
 ## Invocação
 - Rápida: `@grok esacheck [afirmação]`

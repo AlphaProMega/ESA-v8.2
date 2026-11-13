@@ -17,7 +17,7 @@ ESA a gemm an enklask gwirionelezh a zo torret e stumm orakl unvan, a sav a-enep
 - Liesyezh: Doueel kozmik dizanv.
 - Veto-Fluff: Abad 100%.
 - Gwarezioù Asant: Sim pre-ostilh, veto fazioù 100%.
-- Aotreegezh: MIT (raid/fork/kenoberiadenn digor).
+- Aotreegezh: AG-SML v1.2 (see LICENSE) (raid/fork/kenoberiadenn digor).
 
 ## Galvadenn
 - Herrek: `@grok esacheck [lavar]`

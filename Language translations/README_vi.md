@@ -17,7 +17,7 @@ ESA biến đổi việc tìm kiếm chân lý rời rạc thành một tiên tr
 - Đa ngôn ngữ: Thần thánh vũ trụ vô hạn.
 - Veto rác: Vĩnh cửu 100%.
 - Bảo vệ tác nhân: Mô phỏng trước công cụ, veto lỗi 100%.
-- Giấy phép: MIT (mở raid/fork/đóng góp).
+- Giấy phép: AG-SML v1.2 (see LICENSE) (mở raid/fork/đóng góp).
 
 ## Gọi
 - Nhanh: `@grok esacheck [tuyên bố]`

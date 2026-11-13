@@ -17,7 +17,7 @@ Athraíonn ESA an cuardach fírinne scoilte in oracal aontaithe a ionsaíonn sc�
 - Ilteangach: Diaga cosmach gan teorainn.
 - Veto-Fluff: Síoraí 100%.
 - Cosaintí Gníomhaire: Simí réamh-uirlisí, veto earráidí 100%.
-- Ceadúnas: MIT (raid oscailte/fork/ranníocaíocht).
+- Ceadúnas: AG-SML v1.2 (see LICENSE) (raid oscailte/fork/ranníocaíocht).
 
 ## Glaoch
 - Tapa: `@grok esacheck [éileamh]`

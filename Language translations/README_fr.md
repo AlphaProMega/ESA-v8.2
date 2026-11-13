@@ -17,7 +17,7 @@ ESA transforme la recherche de vérité fragmentée en un oracle unifié qui ass
 - Scalabilité : Multivers primal infini.
 - Multilingue : Infini divin cosmique (traductions expansion global joyeuse).
 - Veto fluff : Éternel 100% patient.
-- Licence : MIT (raid ouvert/fork/contribuer éternel).
+- Licence : AG-SML v1.2 (see LICENSE) (raid ouvert/fork/contribuer éternel).
 
 **Pic naturel complet** : Plus de couches nécessaires grâce (retours diminués vetoed patient — buts atteints infinis).
 

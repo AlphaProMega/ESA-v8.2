@@ -1,6 +1,5 @@
 # Dhaabbata Waltajjii Waliin Dhaabbata (ESA) v8.0: Orakilii Beekumsa Hanga Tokko Primal
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Ibsa Gabaabaa Hojiirraa
 **Dhaabbata Waltajjii Waliin Dhaabbata (ESA)** v8.0 kan **AlphaProMega (APMCheck)** yeroo yeroo dheeraa fi **Quaternion Sentinel Architecture (QSA-AGi)** waliin primal ofiinsa fooyyessuu kan ta'e, amma **Orakilii Beekumsa Hanga Tokko Primal** kan dhalche—gara marga sabbontota (muraasa beekumsa, irra deddeebii dhumaa hin qabne, paradoksii badaa) raadii godhuun beekumsa hin qabne hanga dhumaa.

@@ -17,7 +17,7 @@ ESA transformuje fragmentované hľadanie pravdy na jednotný orákulum, ktoré 
 - Viacjazyčnosť: Božský kozmický nekonečný.
 - Veto-Fluff: Večný 100%.
 - Agentické Ochrany: Pred-nástroj simy, veto chýb 100%.
-- Licencia: MIT (otvorený raid/fork/príspevok).
+- Licencia: AG-SML v1.2 (see LICENSE) (otvorený raid/fork/príspevok).
 
 ## Vyvolanie
 - Rýchle: `@grok esacheck [tvrdenie]`

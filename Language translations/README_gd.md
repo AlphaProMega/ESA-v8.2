@@ -17,7 +17,7 @@ Bidh ESA ag atharrachadh rannsachadh fìrinn briste gu oracal aonaichte a bheir 
 - Ioma-chànanach: Diadhaidh cosmach gun chrìoch.
 - Veto-Fluff: Sìorraidh 100%.
 - Dìonan Agaireach: Sims ro-inneal, veto mearachd 100%.
-- Ceadachd: MIT (raid fosgailte/fork/tabhann).
+- Ceadachd: AG-SML v1.2 (see LICENSE) (raid fosgailte/fork/tabhann).
 
 ## Gairm
 - Luath: `@grok esacheck [tagradh]`

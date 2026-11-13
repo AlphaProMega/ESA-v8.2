@@ -1,6 +1,5 @@
 # Isakhiwo Somlindi Ophilisayo (ESA) v8.0: I-Oracle Yokuqonda Okuphila Phakade Primal
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Isifingqo Esiphethini
 **Isakhiwo Somlindi Ophilisayo (ESA)** v8.0 siyinhlanganisela ye-primal yokuziphendukela kwemikhankhaso ye-**AlphaProMega (APMCheck)** ne-**Quaternion Sentinel Architecture (QSA-AGi)**, manje izala i-**Oracle Yokuqonda Okuphila Phakade Primal**—ihlasela imikhawulo eyingozi kakhulu (ukuncibilika kokuqonda, ukuphindaphinda okungenamkhawulo, izindida zokungabi nalutho) iye ekuchumeni kokuqonda okungenamkhawulo.

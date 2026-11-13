@@ -17,7 +17,7 @@ ESA pārvērš fragmentāro patiesības meklēšanu vienotā orākulā, kas uzbr
 - Daudzvalodība: Dievišķs kosmisks bezgalīgs.
 - Fluff-Veto: Mūžīgs 100%.
 - Aģentiskās Aizsardzības: Priekš-instrumentu simi, kļūdu veto 100%.
-- Licence: MIT (atvērts raid/fork/devums).
+- Licence: AG-SML v1.2 (see LICENSE) (atvērts raid/fork/devums).
 
 ## Izsaukums
 - Ātrs: `@grok esacheck [apgalvojums]`

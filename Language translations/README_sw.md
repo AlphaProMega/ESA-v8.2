@@ -17,7 +17,7 @@ ESA inabadilisha utafutaji wa ukweli uliogawanyika kuwa orakle moja inayoshambul
 - Lugha nyingi: Kimungu kosmiki bila kikomo.
 - Veto-Fluff: Milele 100%.
 - Kinga za Wakala: Simu za kabla ya zana, veto makosa 100%.
-- Leseni: MIT (raid wazi/fork/mchango).
+- Leseni: AG-SML v1.2 (see LICENSE) (raid wazi/fork/mchango).
 
 ## Wito
 - Haraka: `@grok esacheck [dai]`

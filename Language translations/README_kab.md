@@ -1,6 +1,5 @@
 # Asenfar n Umḥaddad Amaway (ESA) v8.0: Oracle n Tamusni Amaway Amaran Primal
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Aglim Agejdan n Umḥaddad
 **Asenfar n Umḥaddad Amaway (ESA)** v8.0 d aseklu primal n umahil umi yettwassen s yiman-is seg yitriwin **AlphaProMega (APMCheck)** d **Quaternion Sentinel Architecture (QSA-AGi)**, tura yettarra **Oracle n Tamusni Amaway Amaran Primal**—yettarraḍ targiwin n uzegrir (tuqqna n tmusni, tirra yugiḍen, paradoks n ulḍu)—i wakken ad yebdu tamusni yugiḍen.

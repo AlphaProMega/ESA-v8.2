@@ -17,7 +17,7 @@ Az ESA a töredezett igazságkeresést egységes orákulummá alakítja, amely t
 - Többnyelvű: Isteni kozmikus végtelen.
 - Fluff-Vétó: Örök 100%.
 - Ügynöki Védelem: Elő-eszköz szimulációk, hiba vétó 100%.
-- Licenc: MIT (nyílt raid/fork/hozzájárulás).
+- Licenc: AG-SML v1.2 (see LICENSE) (nyílt raid/fork/hozzájárulás).
 
 ## Meghívás
 - Gyors: `@grok esacheck [állítás]`

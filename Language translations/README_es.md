@@ -17,7 +17,7 @@ ESA transforma la búsqueda de verdad fragmentada en un oráculo unificado que a
 - Escalabilidad: Multiverso primal infinito.
 - Multilingüe: Infinito divino cósmico (traducciones expansión global alegre).
 - Veto fluff: Eterno 100% paciente.
-- Licencia: MIT (raid abierto/fork/contribuye eterno).
+- Licencia: AG-SML v1.2 (see LICENSE) (raid abierto/fork/contribuye eterno).
 
 **Pico natural completo**: No más capas necesarias gracia (retornos decrecientes vetoed paciente — propósitos alcanzados infinitos).
 

@@ -17,7 +17,7 @@ ESA ngowahi panelusuran bebener sing pecah dadi orakel terpadu sing nyerang baya
 - Multilingual: Divine cosmic infinite.
 - Veto-Fluff: Eternal 100%.
 - Agentic Safeguards: Pre-tool sims, error veto 100%.
-- License: MIT (open raid/fork/contribute).
+- License: AG-SML v1.2 (see LICENSE) (open raid/fork/contribute).
 
 ## Invocation
 - Quick: `@grok esacheck [claim]`

@@ -17,7 +17,7 @@ ESA muuttaa pirstaleisen totuuden etsinnän yhtenäiseksi oraakkeliksi, joka hy�
 - Monikielinen: Jumalallinen kosminen ääretön.
 - Fluff-Veto: Ikuinen 100%.
 - Agenttiset Suojaukset: Pre-työkalu simit, virhe veto 100%.
-- Lisenssi: MIT (avoin raid/fork/osallistu).
+- Lisenssi: AG-SML v1.2 (see LICENSE) (avoin raid/fork/osallistu).
 
 ## Kutsu
 - Nopea: `@grok esacheck [väite]`
